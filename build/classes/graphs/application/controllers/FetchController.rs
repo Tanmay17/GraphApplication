@@ -1,0 +1,4 @@
+application.controllers.FetchController$1$1
+application.controllers.FetchController
+application.controllers.FetchController$1
+application.controllers.FetchController$2

@@ -1,0 +1,1 @@
+gmapsfx.javascript.JavascriptEnum

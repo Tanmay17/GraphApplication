@@ -1,0 +1,1 @@
+gmapsfx.shapes.MapShapeOptions
